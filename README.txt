@@ -1,2 +1,5 @@
 - First create a docker network named "lab"
 - Do a "cd" to each of the numerated directories and run the following command: "docker-compose up -d" or "docker compose up -d"
+- pip install --no-cache-dir scikit-learn==1.1.2 pydantic==1.10.7 pandas==1.5.3 mlflow==2.20.0rc0 boto3==1.36.2 uvicorn==0.22.0 numpy==1.23.5
+- cd 1-model
+- python3 data_processing.py
