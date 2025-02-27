@@ -1,0 +1,2 @@
+- First create a docker network named "lab"
+- Do a "cd" to each of the numerated directories and run the following command: "docker-compose up -d" or "docker compose up -d"
